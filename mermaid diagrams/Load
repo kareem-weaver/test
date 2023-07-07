@@ -1,0 +1,25 @@
+
+```mermaid
+classDiagram
+class analysis_opts_t
+class favload_initial_stress_output_t
+class favload_output_t
+class favload_residual_stress_output_t
+class favload_whole_run_output_t
+class favload_initial_stress_output_t
+class favload_output_t
+class favload_residual_stress_output_t
+class favload_initial_stress_output_t
+class favload_output_t
+class favload_residual_stress_output_t
+class favload_whole_run_output_t
+class geometry_t
+class inf_external_sif_t
+class input_data_t
+class ki_calc_table_t
+class material_t
+class mesh_t
+class shape_function_t
+class axial_sif_t
+class transient_t
+class transients_t
